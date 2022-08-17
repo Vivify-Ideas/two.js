@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "two.js@git+https://github.com/Vivify-Ideas/two.js.git#dev",
+      "/Users/brankomirnic/Desktop/vivify/code/sticky/GazeApp"
+    ]
+  ],
+  "_from": "two.js@git+https://github.com/Vivify-Ideas/two.js.git#dev",
+  "_id": "two.js@git+ssh://git@github.com/Vivify-Ideas/two.js.git#77bb62521e3f9b6ca2f608bec5a9e75f92e94c47",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/two.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "two.js@git+https://github.com/Vivify-Ideas/two.js.git#dev",
+    "name": "two.js",
+    "escapedName": "two.js",
+    "rawSpec": "git+https://github.com/Vivify-Ideas/two.js.git#dev",
+    "saveSpec": "git+https://github.com/Vivify-Ideas/two.js.git#dev",
+    "fetchSpec": "https://github.com/Vivify-Ideas/two.js.git",
+    "gitCommittish": "dev"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+ssh://git@github.com/Vivify-Ideas/two.js.git#77bb62521e3f9b6ca2f608bec5a9e75f92e94c47",
+  "_spec": "git+https://github.com/Vivify-Ideas/two.js.git#dev",
+  "_where": "/Users/brankomirnic/Desktop/vivify/code/sticky/GazeApp",
+  "author": {
+    "name": "jonobr1",
+    "url": "http://jonobr1.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/jonobr1/two.js/issues"
+  },
+  "description": "A two-dimensional drawing api meant for modern browsers.",
+  "devDependencies": {
+    "animation-frame": "^0.1.7",
+    "blueimp-canvas-to-blob": "^2.1.0",
+    "node-minify": "^2.0.3",
+    "qunitjs": "^2.4.0",
+    "resemblejs": "^1.1.1",
+    "underscore": "^1.6.0"
+  },
+  "homepage": "http://jonobr1.github.io/two.js/",
+  "keywords": [
+    "dom",
+    "w3c",
+    "visualization",
+    "svg",
+    "animation",
+    "canvas2d",
+    "webgl",
+    "rendering",
+    "motiongraphics"
+  ],
+  "license": "MIT",
+  "main": "build/two.js",
+  "name": "two.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonobr1/two.js.git"
+  },
+  "version": "0.7.0"
+}
